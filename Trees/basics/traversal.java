@@ -1,4 +1,4 @@
-package Trees;
+package Trees.basics;
 class node{
     node left,right;
     int key;
